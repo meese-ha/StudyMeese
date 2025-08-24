@@ -37,6 +37,7 @@ public class Solution {
                 startday++;        
             }            
             
+            
             if(person == 5)
             {
                 answer++;
